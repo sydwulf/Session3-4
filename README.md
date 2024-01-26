@@ -5,5 +5,15 @@
 # i wanna knowwwwwwww
 # will you be my girl!
 ![DancingHappyGIF](https://github.com/sydwulf/Session3-4/assets/156428930/9e09ab91-c625-4da7-8bc7-6941fb1c9dc2)
+ 
+This will be a list:
+## - uno
+## - dos
+
+1. that's enough
+2. no more lists 
+
+![cat image](awkward%20cat.jpg)
+
 
 
